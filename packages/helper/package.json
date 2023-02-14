@@ -1,6 +1,6 @@
 {
-  "name": "helper",
-  "version": "1.0.0",
+  "name": "@vault42/test-helper",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
