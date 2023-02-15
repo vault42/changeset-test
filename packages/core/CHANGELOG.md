@@ -1,5 +1,17 @@
 # @vault42/test-core
 
+## 3.2.0
+
+### Minor Changes
+
+- [`689af89`](https://github.com/vault42/changeset-test/commit/689af89913d2d16e8a4cfa8499917480c00f1897) Thanks [@42arch](https://github.com/42arch)! - add multiply function.
+
+  usage:
+
+  ```js
+  const r = multiply(2, 4);
+  ```
+
 ## 3.1.0
 
 ### Minor Changes

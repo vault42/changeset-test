@@ -1,5 +1,17 @@
 # @vault42/test-helper
 
+## 2.4.0
+
+### Minor Changes
+
+- [`689af89`](https://github.com/vault42/changeset-test/commit/689af89913d2d16e8a4cfa8499917480c00f1897) Thanks [@42arch](https://github.com/42arch)! - add isTen function.
+
+  useage:
+
+  ```js
+  const r = isTen(10);
+  ```
+
 ## 2.3.0
 
 ### Minor Changes
