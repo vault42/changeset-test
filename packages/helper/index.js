@@ -9,3 +9,7 @@ export const isOdd = (num) => {
 export const isZero = (num) => {
   return num === 0
 }
+
+export const isOne = (num) => {
+  return num === 1
+}
