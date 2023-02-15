@@ -17,3 +17,7 @@ export const isOne = (num) => {
 export const isTwo = (num) => {
   return num === 2
 }
+
+export const isTen = (num) => {
+  return num === 10
+}
