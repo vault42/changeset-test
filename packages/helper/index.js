@@ -13,3 +13,7 @@ export const isZero = (num) => {
 export const isOne = (num) => {
   return num === 1
 }
+
+export const isTwo = (num) => {
+  return num === 2
+}
